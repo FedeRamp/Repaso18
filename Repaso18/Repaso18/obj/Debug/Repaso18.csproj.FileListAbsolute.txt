@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/Repaso18/Repaso18/Repaso18/obj/Debug/Repaso18.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/Repaso18/Repaso18/Repaso18/obj/Debug/Repaso18.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/Repaso18/Repaso18/Repaso18/bin/Debug/Repaso18.exe
+/Users/fede/Documents/GitHub/Repaso18/Repaso18/Repaso18/bin/Debug/Repaso18.pdb
+/Users/fede/Documents/GitHub/Repaso18/Repaso18/Repaso18/obj/Debug/Repaso18.exe
+/Users/fede/Documents/GitHub/Repaso18/Repaso18/Repaso18/obj/Debug/Repaso18.pdb
