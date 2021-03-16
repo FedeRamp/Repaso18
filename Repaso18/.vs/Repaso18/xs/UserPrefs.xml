@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{F9B1C5E8-9CF4-4FCD-AF90-B62FDB1EEDFC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Repaso18/Program.cs">
     <Files>
-      <File FileName="Repaso18/Program.cs" Line="9" Column="1" />
+      <File FileName="Repaso18/Program.cs" Line="17" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Repaso18 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Repaso18 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
