@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso18", "Repaso18\Repaso18.csproj", "{F9B1C5E8-9CF4-4FCD-AF90-B62FDB1EEDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B1C5E8-9CF4-4FCD-AF90-B62FDB1EEDFC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F9B1C5E8-9CF4-4FCD-AF90-B62FDB1EEDFC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F9B1C5E8-9CF4-4FCD-AF90-B62FDB1EEDFC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F9B1C5E8-9CF4-4FCD-AF90-B62FDB1EEDFC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
